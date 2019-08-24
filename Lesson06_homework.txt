@@ -1,0 +1,35 @@
+1 Summarize the reasons of over-fitting and under-fitting
+over-fitting:
+
+原因：
+1.模型过于复杂。
+2.数据太少。
+3.数据不全面。
+
+解决方法：
+1.剪枝
+2.降低模型的复杂度，更正算法。
+3.增大数据量。
+4.排除掉过于异常的点。
+
+under-fitting：
+
+原因：
+1.模型过于简单。
+2.训练的学习度太高。
+3.所使用的特征不够具有代表性。
+
+解决方法：
+1.改变模型，让它更复杂。
+2.降低学习度。
+3.用更好的特征去训练。
+
+2 Writing down three sceneries that machine learning has been used now
+1.淘宝找喜爱的相似物品。
+2.智能客服。
+3.房价预测。
+
+3 Come out with three new sceneries with which machine learning may be applied.
+1.同声传译
+2.微型化芯片
+3.个体化医疗
